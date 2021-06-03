@@ -1,3 +1,3 @@
 # lv_mpy_net_indev
 
-lv_micropython for windows socket net input device.
+windows socket input device for  lv_micropython.
